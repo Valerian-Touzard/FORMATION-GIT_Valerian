@@ -1,0 +1,2 @@
+let maPremiereVariable;
+let maSecondeVariable;
